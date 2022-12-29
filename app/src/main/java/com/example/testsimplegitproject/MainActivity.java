@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 
-// ajout d'un commentaire à pusher vers git, le 29/12/2022----
+// ajout d'un commentaire à pusher vers git, le 29/12/2022----adding a comment
 
 public class MainActivity extends AppCompatActivity {
 
